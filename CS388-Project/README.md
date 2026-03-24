@@ -97,7 +97,7 @@ Chat Screen
 
 ### [BONUS] Interactive Prototype
 
-<video src="2026-03-23 21-27-12.mp4" width=600 controls></video>
+[Click here to view the Interactive Prototype](https://www.figma.com/proto/oaQwwAH9bnUGlPgtBixoJN/388-adroid-app?node-id=1002-73&t=NXjQaZvuPWJ7zc5c-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1002%3A73)
 
 <br>
 # Milestone 2 - Build Sprint 1 (Unit 8)
